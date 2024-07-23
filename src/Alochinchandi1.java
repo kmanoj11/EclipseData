@@ -6,5 +6,7 @@ public class Alochinchandi1
 	{
      void endukuikkadaunnamu()
 	}
-     
+
+	system.out.println("done");
+	
 }
