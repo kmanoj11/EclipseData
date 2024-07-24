@@ -8,5 +8,5 @@ public class Alochinchandi1
 	}
 
 	system.out.println("done");
-	
+	system.out.prinln(endukuikkadaunnamu);
 }
