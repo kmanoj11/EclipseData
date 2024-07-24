@@ -11,5 +11,9 @@ public class Manchodu
 	{
 		return "arif";
 	}
-
+     int a = 10;
+     {
+    	
+    	 
+     }
 }
