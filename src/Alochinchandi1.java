@@ -9,5 +9,9 @@ public class Alochinchandi1
 	}
 
 	system.out.println("done");
+<<<<<<< HEAD
 	system.out.prinln(endukuikkadaunnamu);
+=======
+	system.out.println(manoj);
+>>>>>>> branch 'master' of https://github.com/kmanoj11/EclipseData.git
 }
