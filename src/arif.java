@@ -5,5 +5,6 @@ public class arif
      
 	system.out.println("arif");
       system.out.println("done");
+      system.out.println(done);
     }
   } 
